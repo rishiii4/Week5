@@ -1,0 +1,30 @@
+[
+  {
+  "id": 101,
+  "name": "Vijay",
+  "email": "vijay.from@example.com",
+  "phone": "7412589630",
+  "age": 6
+  },
+  {
+    "id": 102,
+    "name": "Malya",
+    "email": "malya.from@example.com",
+    "phone": "7412589630",
+    "age": 36
+  },
+  {
+    "id": 103,
+    "name": "Rakesh",
+    "email": "rakesh.from@example.com",
+    "phone": "7412589630",
+    "age": 26
+  },
+  {
+    "id": 104,
+    "name": "Roshan",
+    "email": "roshan.from@example.com",
+    "phone": "7412589630",
+    "age": 16
+  }
+]
